@@ -28,7 +28,7 @@ int main ()
 	}
 	
 	cout << "\t--------------------------------------------------------------" << endl;
-	cout << "\t El numero de a" << char(165) << "os transcurridos es de: " << contador << endl;
+	cout << "\t El numero de a" << char(164) << "os transcurridos es de: " << contador << endl;
 	
 	return 0;
 }
